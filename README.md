@@ -54,4 +54,4 @@ Hacker News : https://news.ycombinator.com/
 
 ## Robotics
 
-- DeepRob Winter 2023 ( Deep learning with robotics ) : https://youtu.be/dx1G7y6mhMQ
+- DeepRob Winter 2023 ( Deep learning with robotics ) : https://youtube.com/playlist?list=PLf_SmXJixhnXoMs0Qvxe500BrjfbIOwSg
